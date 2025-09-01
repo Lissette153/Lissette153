@@ -1,7 +1,7 @@
 ## Hola, mi nombre es Lissette! ✨
 
 👩‍🎓 Titulada Técn. Analista Programador<br/>
-🎮 Me encanta jugar videojuegos de Shooters<br/>
+💻 Me gusta investigar sobre nuevas tecnologías <br/>
 
 # 💫 Acerca de mi:
 Me manejo en Aplicaciones web, sitios web, Analista de datos y gestión de base de datos
